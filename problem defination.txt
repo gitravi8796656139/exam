@@ -1,0 +1,27 @@
+Fabrikam company wants to build and host website such that their customer should able to explore company's product through website and they should able to buy products online.
+
+1)company will have their website, on front page all product list should appear.
+
+2) customer will have own user id and password they will be able to login and logout to system.
+
+3)by logging in they should be able browse through product list see the details of the produts, should be able to add product in the cart and see product list of cart
+
+4)they can remove items/products from cart and proceed for checkout
+5)through payment gatway they will pay the bill
+6)after that ordr will be placed and delivered to customer's place
+7)employee should able to login to the system and they will see the feedback from abou company and and management
+
+---------------------------------------------------------------------------------------------------
+functional requirement:
+1)customer should login to system 
+
+2)product should add to cart
+3)remove from cart
+4)buy product
+5)cancel product
+5)employee login
+6)feedback 
+
+Non-Functionl requirement
+1)security
+2)maintanability
